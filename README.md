@@ -26,8 +26,8 @@ Oracle RAC is a high-availability and scalability solution for Oracle databases.
 Refer to the [guide](Oracle_RAC_Setup_Guide.pdf) for solutions to common issues encountered during setup.
 
 ## Virtual Machines
-Configured virtual machine templates for RAC setup:
-- [RAC Node 1](VMs/RAC_Node1.ova)
-- [RAC Node 2](VMs/RAC_Node2.ova)
+Configured virtual machine templates for RAC setup (hit the links below):
+- [RAC Node 1]((https://drive.google.com/file/d/1uq5yWvjOAthqugPGLdLUgGGQvG6OATMo/view?usp=drive_link))
+- [RAC Node 2]((https://drive.google.com/file/d/1-doqDhAv_a3RvU8z8GIFfN9v4qILkq5H/view?usp=drive_link))
 
 
