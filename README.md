@@ -27,7 +27,7 @@ Refer to the [guide](Oracle_RAC_Setup_Guide.pdf) for solutions to common issues 
 
 ## Virtual Machines
 Configured virtual machine templates for RAC setup (hit the links below):
-- [RAC Node 1]((https://drive.google.com/file/d/1uq5yWvjOAthqugPGLdLUgGGQvG6OATMo/view?usp=drive_link))
-- [RAC Node 2]((https://drive.google.com/file/d/1-doqDhAv_a3RvU8z8GIFfN9v4qILkq5H/view?usp=drive_link))
+- [RAC Node 1 : https://drive.google.com/file/d/1uq5yWvjOAthqugPGLdLUgGGQvG6OATMo/view?usp=drive_link ]
+- [RAC Node 2 : https://drive.google.com/file/d/1-doqDhAv_a3RvU8z8GIFfN9v4qILkq5H/view?usp=drive_link ]
 
 
